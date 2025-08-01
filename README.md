@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm currently on a journey to become a full-stack develope
 ---
 
 ## 📫 Connect with me:
-LinkedIn (www.linkedin.com/in/hevinpatoliya9106011772)
+LinkedIn www.linkedin.com/in/hevinpatoliya9106011772
   
 
 ---
