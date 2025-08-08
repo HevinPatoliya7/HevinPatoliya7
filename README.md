@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm currently on a journey to become a full-stack develope
 ## 💡 Tech I'm Learning:
 
 **Frontend:**  
-`HTML` · `CSS` · `JavaScript`
+`HTML` · `CSS` · `JavaScript` . `React`
 
 **Backend:**  
 `.NET Core` · `ASP.NET` · `C#` · `Java` · `Python`
