@@ -1,46 +1,45 @@
 
 # 👋 Hi there! I'm Hevin Patoliya
 
-### 🧑‍💻 Aspiring Web Developer | .NET & ASP.NET Enthusiast
 
-Welcome to my GitHub! I'm currently on a journey to become a full-stack developer, focusing on real-world projects to sharpen my skills and contribute to the tech community.
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hevinpatoliya9106011772)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/HevinPatoliya)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hevinpatoliya_official/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@hpatoliya927)
 
-## 💡 Tech I'm Learning:
 
-**Frontend:**  
-`HTML` · `CSS` · `JavaScript` . `React`
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-**Backend:**  
-`.NET Core` · `ASP.NET` · `C#` · `Java` · `Python`
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
-**Databases:**  
-`SQL Server` · `MySQL`
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-**Other Languages:**  
-`C` · `Java (OOP Concepts)` · `Python (Scripting & Logic)`
-
-**Tools & Platforms:**  
-`Visual Studio` · `VS Code` · `Git & GitHub`
-
-**Currently Exploring:**  
-`APIs` · `Full-Stack Development` · `Basic Data Structures`
-
----
-
-## 🎯 Goals:
-
-- 🚀 Build and contribute to open-source projects  
-- 👨‍💻 Grow as a full-stack developer  
-- 📚 Keep learning and improving every day  
-
----
-
-## 📫 Connect with me:
-LinkedIn www.linkedin.com/in/hevinpatoliya9106011772
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
 
----
+**Talking about Personal Stuffs:**
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: hevinpatoliya@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+
+
+
 
 
