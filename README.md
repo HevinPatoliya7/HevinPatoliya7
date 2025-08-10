@@ -1,6 +1,6 @@
 
 
-![logo](<img width="2000" height="600" alt="Brown Wood Minimalist Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/87475358-565e-46c4-bfce-85b1c3e97a3c" />
+![logo](https://github.com/HevinPatoliya7/HevinPatoliya7/blob/main/LOGO(2).png
 )
 
 # 👋 Hi there! I'm Hevin Patoliya
@@ -8,9 +8,9 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hevinpatoliya9106011772)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/HevinPatoliya)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hevinpatoliya_official/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@hpatoliya927)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hevinpatoliya_official/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/HevinPatoliya)
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
